@@ -1,0 +1,15 @@
+#+TITLE: Template
+
+
+* Introduction
+
+
+
+* Thing 1
+
+
+* Thing 2
+
+
+
+* Conclusion
