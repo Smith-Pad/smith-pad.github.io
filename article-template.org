@@ -11,5 +11,10 @@
 * Thing 2
 
 
+* Thing 3
+
+#+BEGIN_SRC shell
+echo "hello shell here example example"
+#+END_SRC
 
 * Conclusion
