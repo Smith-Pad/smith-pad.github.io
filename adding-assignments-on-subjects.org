@@ -1,0 +1,5 @@
+#+TITLE: adding-assignments-on-subjects 
+
+* Introduction
+welcome to the documentation. this documentation talks about the overview on how to add
+assignments dynamically to Smith-Pad Subjects.
