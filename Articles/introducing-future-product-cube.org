@@ -1,0 +1,15 @@
+#+TITLE: Introducing Future Product Cube
+
+
+
+Future Product, Cube is a revolutionary, innovative, and sustainable technology 
+which is shaped as a cube allowing individuals to touch a physical cube, to 
+complete certain lessons and other tasks on it.
+
+
+
+
+Features of the Cube
+
+- OLED Screen on each side of the cube
+- Haptic Engine on each side of the cube
