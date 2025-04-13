@@ -13,3 +13,4 @@ Features of the Cube
 
 - OLED Screen on each side of the cube
 - Haptic Engine on each side of the cube
+- Physical Buttons on each side of the cube
