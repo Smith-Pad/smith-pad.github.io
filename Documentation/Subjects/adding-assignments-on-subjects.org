@@ -14,9 +14,8 @@ interactive lessons. Makes it more efficient.
 * Running Add-Assignments
 
 #+BEGIN_SRC shell
-python3 add-assignments.py
+python3 04-add-assignments.py
 #+END_SRC
-
 
 
 
@@ -50,6 +49,3 @@ assignments to devices.
 #+BEGIN_SRC python
 Create the description of the lesson:             
 #+END_SRC
-
-
-
