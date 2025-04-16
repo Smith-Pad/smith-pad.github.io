@@ -31,7 +31,15 @@ Based on the close proximity of devices in the classroom, it will add the latest
 assignments to devices.
 
 #+BEGIN_SRC python
-Create the title of the lesson:        
+
+--------------------------------------------------------------
+                Enter the title of lesson
+--------------------------------------------------------------
+
+>>
+
+
+
 #+END_SRC
 
 
@@ -47,5 +55,11 @@ Based on the close proximity of devices in the classroom, it will add the latest
 assignments to devices.
 
 #+BEGIN_SRC python
-Create the description of the lesson:             
+
+--------------------------------------------------------------
+                Enter the description of lesson
+--------------------------------------------------------------
+
+>>
+
 #+END_SRC
