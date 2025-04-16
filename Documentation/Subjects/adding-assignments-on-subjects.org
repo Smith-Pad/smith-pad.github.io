@@ -44,6 +44,21 @@ assignments to devices.
 
 
 
+
+
+* Converting from Spaces to Underscores for Inputting Lesson Title
+
+
+This is where we are able to convert from spaces to underscores after inputting the
+lesson title.
+
+** What are the use-cases for this?
+
+- Adding templates 
+- Adding routes
+- Adding back and forth buttons on the UI
+
+
 * Inputting Lesson Description
 
 This is where you are able to create the description of the lesson. With this,
@@ -63,3 +78,7 @@ assignments to devices.
 >>
 
 #+END_SRC
+
+
+
+
