@@ -37,9 +37,6 @@ assignments to devices.
 --------------------------------------------------------------
 
 >>
-
-
-
 #+END_SRC
 
 
@@ -59,6 +56,14 @@ lesson title.
 - Adding back and forth buttons on the UI
 
 
+
+``` shell
+TITLE HERE => TITLE_HERE
+title here -> title_here
+
+```
+
+
 * Inputting Lesson Description
 
 This is where you are able to create the description of the lesson. With this,
@@ -76,7 +81,6 @@ assignments to devices.
 --------------------------------------------------------------
 
 >>
-
 #+END_SRC
 
 
