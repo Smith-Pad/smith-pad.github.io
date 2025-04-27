@@ -31,7 +31,7 @@ Based on the close proximity of devices in the classroom, it will add the latest
 assignments to devices.
 
 #+BEGIN_SRC python
-Enter the title of the Lesson: 
+  Enter the title of the Lesson: 
 #+END_SRC
 
 
@@ -52,11 +52,10 @@ lesson title.
 
 
 
-``` shell
-TITLE HERE => TITLE_HERE
-title here -> title_here
-
-```
+#+BEGIN_SRC txt
+  TITLE HERE => TITLE_HERE
+  title here -> title_here
+#+END_SRC
 
 
 * Inputting Lesson Description
@@ -70,7 +69,7 @@ Based on the close proximity of devices in the classroom, it will add the latest
 assignments to devices.
 
 #+BEGIN_SRC python
-Enter the description of the lesson:
+  Enter the description of the lesson:
 #+END_SRC
 
 
