@@ -1,0 +1,77 @@
+#+TITLE: adding-assignments-on-subjects 
+
+
+Welcome to the documentation. This documentation talks about the overview on how to add
+assignments dynamically to smith-pad subjects. For now, it is CLI. But we are working on
+creating a GUI feature for Smith-Pad. Using AI technologies, and on-device learning,
+paraprofessionals can efficiently create interactive lessons that can be easily
+assigned to individuals Smith-Pad based devices without paraprofessionals manually creating
+interactive lessons. Makes it more efficient.
+
+
+
+
+* Running Add-Assignments
+
+#+BEGIN_SRC shell
+python3 04-add-assignments.py
+#+END_SRC
+
+
+
+
+* Inputting Lesson Title
+
+This is where you are able to create the title of the lesson. With this,
+on the frontend, it will create the latest assignments card that allows
+the user to click on the card to access the assignment.
+
+Later on, paraprofessionals will allow the ability to utilize bluetooth technology.
+Based on the close proximity of devices in the classroom, it will add the latest
+assignments to devices.
+
+#+BEGIN_SRC python
+  Enter the title of the Lesson: 
+#+END_SRC
+
+
+
+
+
+* Converting from Spaces to Underscores for Inputting Lesson Title
+
+
+This is where we are able to convert from spaces to underscores after inputting the
+lesson title.
+
+** What are the use-cases for this?
+
+- Adding templates 
+- Adding routes
+- Adding back and forth buttons on the UI
+
+
+
+#+BEGIN_SRC txt
+  TITLE HERE => TITLE_HERE
+  title here -> title_here
+#+END_SRC
+
+
+* Inputting Lesson Description
+
+This is where you are able to create the description of the lesson. With this,
+on the frontend, it will create a latest assignments card that allows the user
+to click on the card to access the assignment.
+
+Later on, paraprofessionals will allow the ability to utilize bluetooth technology.
+Based on the close proximity of devices in the classroom, it will add the latest
+assignments to devices.
+
+#+BEGIN_SRC python
+  Enter the description of the lesson:
+#+END_SRC
+
+
+
+
