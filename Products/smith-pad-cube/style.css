@@ -9,11 +9,12 @@
         background-color: dimgray;
         color: white;
         padding: 16px 32px;
+        font-family: sans-serif;
 }
 
 
 .layout-1 h1 {
-        font-size: 300px;
+        font-size: 100px;
         text-align: center;
 }
 
